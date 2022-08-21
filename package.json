@@ -2,14 +2,14 @@
   "name": "ice-cream",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://fedorzvyk.github.io/ice-cream1",
+  "homepage": "https://fedorzvyk.github.io/ice-cream",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /ice-cream1/"
+    "build": "parcel build src/*.html --public-url /ice-cream/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fedorzvyk/ice-cream1.git"
+    "url": "git+https://github.com/fedorzvyk/ice-cream.git"
   },
   "keywords": [],
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
